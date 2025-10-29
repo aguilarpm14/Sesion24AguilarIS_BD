@@ -246,7 +246,7 @@
                                                 <div class="col-md-12 text-center">
                                                         <span class="copyright">
                                                                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                                                Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados <i class="fa fa-heart-o" aria-hidden="true"></i>
+                                                                Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos los derechos reservados Martin Aguilar <i class="fa fa-heart-o" aria-hidden="true"></i>
                                                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                                                         </span>
                                                 </div>
